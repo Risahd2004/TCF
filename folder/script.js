@@ -39,6 +39,7 @@ logoImg.alt = 'The Cake Factory Logo';
 logoDiv.appendChild(logoImg);
 header.appendChild(logoDiv);
 
+
 const navItems = [
   { text: 'HOME', href: '#' },
   {
